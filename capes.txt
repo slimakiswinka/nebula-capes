@@ -1,0 +1,2 @@
+torn https://raw.githubusercontent.com/slimakiswinka/nebula-capes/main/capetorn.png
+cock https://raw.githubusercontent.com/slimakiswinka/nebula-capes/main/cockcape.png
